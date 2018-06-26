@@ -1,10 +1,10 @@
 tabby_dog = "\tI'm tabbed in."
 persian_dog = "I'am split\non aline."
-backslash_dog = "I'am \\ a \\ cat."
+backslash_dog = "I'am \\ a \\ dog."
 
 fat_dog = """
 I'll do a list:
-    \t* Cat food
+    \t* Dog food
     \t* Fishes
     \t* Catnip\n\t* Grass
     """
